@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: 100万到1亿
 description: 人与AI协同进化实录
+show_excerpts: true
